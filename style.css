@@ -89,14 +89,14 @@ h2 {
     display: inline-block;
     margin-top: 18px;
     padding: 15px 22px;
-    background: #26352c;
+    background: #8b5e4a;
     color: white;
     border-radius: 30px;
     font-size: 13px;
 }
 
 .button:hover {
-    background: #71866b;
+    background: #684332;
 }
 
 .about,
