@@ -179,4 +179,11 @@ footer {
     .contact,
     .menu {
         padding: 50px 6%;
+        |
     }
+
+    .hero h1 {
+        font-size: 38px;
+        line-height: 1.15;
+    }
+}
